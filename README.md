@@ -49,7 +49,7 @@ This project was developed as a beginner-friendly web development mini project t
 
 ## 👨‍💻 Developed By
 
-**Abhay Singh**
+**Ashwin Goyat**
 
 B.Tech – Computer Science
 
